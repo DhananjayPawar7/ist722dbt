@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: obt_sales
+    description: One Big Table for sales - denormalized view combining fact_sales with all dimension tables for easy analytical queries
